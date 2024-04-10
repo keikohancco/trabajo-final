@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\bin\Debug\Calculo de la nomina.exe.config
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\bin\Debug\Calculo de la nomina.exe
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\bin\Debug\Calculo de la nomina.pdb
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo de la nomina.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo_de_la_nomina.Form1.resources
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo_de_la_nomina.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo de la nomina.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo de la nomina.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo de la nomina.exe
+C:\Users\LENOVO\source\repos\Calculo de la nomina\Calculo de la nomina\obj\Debug\Calculo de la nomina.pdb
